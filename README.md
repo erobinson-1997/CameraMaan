@@ -9,12 +9,12 @@ CameraMaan is a camera operated by a servo controlled arm. CameraMaan uses a mul
 This contains a startup script that tests the servos after turning the device on. 
 
 ### CameraMaan/
-This contains a directory called CameraMaan_app, which only contains the Makefile and the executable. 
+This contains a directory called `CameraMaan_app`, which only contains the Makefile and the executable. 
 
-The entry point for the code is in CameraMaan.cpp
+The entry point for the code is in `CameraMaan.cpp`
 
 There is also a pair of files for controlling the servos:
 
-dxl_controller.cpp    
-dxl_controller.h
+`dxl_controller.cpp`
+`dxl_controller.h`
 
